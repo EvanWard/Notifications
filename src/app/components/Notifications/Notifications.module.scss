@@ -1,0 +1,14 @@
+.container {
+    bottom: 1rem;
+    left: 50%;
+    justify-content: center;
+    position: fixed;
+    transform: translateX(-50%);
+}
+
+.notification {
+    background-color: black;
+    border-radius: 0.25rem;
+    color: white;
+    padding: 1rem;
+}
